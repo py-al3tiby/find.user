@@ -2,10 +2,10 @@
 
 *First you have to install python3
 on linux "sudo apt-get install python3" and linux already have python3 on the system...
-on windows you have to download python from https://www.python.org/downloads/ then decompress the file and install it.
+on windows you have to download python from https://www.python.org/downloads/ then decompress the file and install it.*
 
 
-                                                         *
+                                                         
 ---------------------------------------------------------
 **
 
